@@ -1,0 +1,2 @@
+# MyRepoTest
+cocoapods test
